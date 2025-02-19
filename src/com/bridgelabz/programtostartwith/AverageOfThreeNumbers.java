@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class AverageOfThreeNumbers {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-//Take three inputs from the user
+		//Take three inputs from the user
 		System.out.println("Enter any three numbers : ");
 		int num1 = sc.nextInt();
 		int num2 = sc.nextInt();
