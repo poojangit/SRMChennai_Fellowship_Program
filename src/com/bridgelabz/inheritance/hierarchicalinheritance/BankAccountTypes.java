@@ -1,4 +1,4 @@
-package com.bridgelabz.inheritance.multilevelinheritance;
+package com.bridgelabz.inheritance.hierarchicalinheritance;
 
 // Main class to test different types of bank accounts
 public class BankAccountTypes {

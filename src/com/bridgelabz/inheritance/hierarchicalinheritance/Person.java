@@ -1,4 +1,4 @@
-package com.bridgelabz.inheritance.multilevelinheritance;
+package com.bridgelabz.inheritance.hierarchicalinheritance;
 
 // Superclass - Person
 public class Person {

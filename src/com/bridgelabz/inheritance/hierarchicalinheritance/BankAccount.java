@@ -1,4 +1,4 @@
-package com.bridgelabz.inheritance.multilevelinheritance;
+package com.bridgelabz.inheritance.hierarchicalinheritance;
 
 // Base class representing a general bank account
 public class BankAccount {
